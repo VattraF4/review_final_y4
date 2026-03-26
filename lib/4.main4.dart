@@ -1,3 +1,4 @@
+// Form validation example with name, email, password, and confirm password fields.
 import 'package:flutter/material.dart';
 
 void main() => runApp(const MyApp());
